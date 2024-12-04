@@ -63,7 +63,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Learn
+          L'earn
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -73,7 +73,7 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="/window.svg"
+            src="./window.svg"
             alt="Window icon"
             width={16}
             height={16}
